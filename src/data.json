@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "5ebc25deae66af078a50df46",
+        "data": {
+            "Email": "dsf",
+            "Age": "23"
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ebc2e9cae66af078a50df4a",
+        "data": {
+            "Email": "xge",
+            "Age": "12"
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ebc2fb9ae66af078a50df4b",
+        "data": {
+            "Email": "vzxf",
+            "Age": "451"
+        },
+        "__v": 0
+    }
+]
