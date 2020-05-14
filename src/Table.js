@@ -183,7 +183,6 @@ export default class Table extends Component {
                 break;
         }
 
-
         this.setState({
             changedItem: changedElem
         })
